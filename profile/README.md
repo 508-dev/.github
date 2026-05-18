@@ -1,12 +1,12 @@
 # 508.dev
 
-508.dev is an engineer-owned offshore engineering co-op.
+508.dev is an engineer-owned distributed engineering co-op.
 
-We build software with a simple operating belief: great engineers should keep more of the value they create, and clients should get senior, self-managed builders without agency overhead.
+We build software with a simple operating belief: great engineers should keep more of the value they create, and clients should get highly skilled, driven builders without agency overhead.
 
-Our members work across frontend, backend, AI/ML, data science, blockchain, infrastructure, mobile, product engineering, and technical leadership. We have supported clients as an embedded engineering team, consultancy, development firm, managed service provider, and agency.
+Our members work across frontend, backend, AI/ML, data science, blockchain, infrastructure, mobile, product engineering, and technical leadership. We support clients as embedded engineering teams and focused development partners.
 
-## What We Build
+## What We Do
 
 - Full-stack web applications
 - AI-native product features and internal tools
